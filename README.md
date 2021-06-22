@@ -1,4 +1,7 @@
-This is a proposal, not official. 
+These contracts are from [OpenZepplin](https://github.com/OpenZeppelin/openzeppelin-contracts) community-vetted code.
+
+[![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)](https://docs.openzeppelin.com/contracts)
+
 # EBOG
 The token will help fund a decentralized digital venue on a yet to be determined platform. The idea of the venue would be to host events, such as musical performances, event hosting, and club. Owners of the $EBOG token will be able to stake their tokens to receive a share of the venue revenue. 
 
