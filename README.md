@@ -1,6 +1,10 @@
 These contracts are from [OpenZepplin](https://github.com/OpenZeppelin/openzeppelin-contracts) community-vetted code.
 
 [![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)](https://docs.openzeppelin.com/contracts)
+<a href="https://discord.gg/brGNRKnx">
+  <img src="https://img.shields.io/discord/308323056592486420?logo=discord" alt="chat on Discord"></a>
+<a href="https://twitter.com/intent/follow?screen_name=EBOGDAO">
+  <img src="https://img.shields.io/twitter/follow/EBOGDAO?style=social&logo=twitter" alt="follow on Twitter"></a>
 
 <a href="https://discord.gg/brGNRKnx">
   <img src="https://img.shields.io/discord/308323056592486420?logo=discord" alt="chat on Discord"></a>
