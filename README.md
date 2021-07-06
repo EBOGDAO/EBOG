@@ -1,4 +1,4 @@
-# <img src="https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/logo.svg" alt="OpenZeppelin" height="40px">
+# <img src="https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/logo.svg" alt="OpenZeppelin" height="20px">
 These contracts are from [OpenZepplin](https://github.com/OpenZeppelin/openzeppelin-contracts) community-vetted code.
 
 [![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)](https://docs.openzeppelin.com/contracts)
