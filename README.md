@@ -64,7 +64,7 @@ Phase 1:
 Phase 2:
   - Staking will be added to this token to allow token holders to earn a share of the revenue made by the venue. 
   - Booking Streams at the Venue and CLUB26
-  - 
+
  `(Revenue will be shared amongst Venue Treasury, Artist, and Token Holders)`
 
 <br><br><hr>
