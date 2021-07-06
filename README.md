@@ -63,7 +63,9 @@ Phase 1:
 
 Phase 2:
   - Staking will be added to this token to allow token holders to earn a share of the revenue made by the venue. 
+  - Booking Streams at the Venue and CLUB26
   - 
  `(Revenue will be shared amongst Venue Treasury, Artist, and Token Holders)`
 
-## <img src="https://github.com/EBOGDAO/EBOG/blob/init/img/OGDAO.jpg" data-canonical-src="https://github.com/EBOGDAO/EBOG/blob/init/img/OGDAO.jpg" width="25" height="25" />  This proposal is property of the OGDAO
+<br><br><hr>
+### This proposal is property of <img src="https://github.com/EBOGDAO/EBOG/blob/init/img/OGDAO.jpg" data-canonical-src="https://github.com/EBOGDAO/EBOG/blob/init/img/OGDAO.jpg" width="17.5" height="17.5" /> OGDAO
