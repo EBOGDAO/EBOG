@@ -22,7 +22,7 @@ Mainnet:
 
 ` Coming Soon `
 
-Rikenby:
+Rinkeby:
 
 ` 0x1b719668c3da837583511b64093b28f4c23f2a2b `
 
