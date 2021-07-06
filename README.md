@@ -59,9 +59,11 @@ $EBOG Max supply = 1,000,000,000
 Phase 1: 
   - The token will be used to govern the venue. The OGDAO will hold 10% of the venue at launch. This is an incentive for creating the venue and purchasing the land on behald of the EBOG Venue.
 
+<img src="https://github.com/EBOGDAO/EBOG/blob/init/img/EBOG_Roadmap.png" data-canonical-src="https://github.com/EBOGDAO/EBOG/blob/init/img/EBOG_Roadmap.png" width="500" height="1000" /> 
+
 Phase 2:
   - Staking will be added to this token to allow token holders to earn a share of the revenue made by the venue. 
- 
+  - 
  `(Revenue will be shared amongst Venue Treasury, Artist, and Token Holders)`
 
 ## <img src="https://github.com/EBOGDAO/EBOG/blob/init/img/OGDAO.jpg" data-canonical-src="https://github.com/EBOGDAO/EBOG/blob/init/img/OGDAO.jpg" width="25" height="25" />  This proposal is property of the OGDAO
