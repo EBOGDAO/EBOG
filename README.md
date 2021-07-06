@@ -14,7 +14,8 @@ EBOG Logo:
 <img src="https://github.com/EBOGDAO/EBOG/blob/init/img/EBOG.png" data-canonical-src="https://github.com/EBOGDAO/EBOG/blob/init/img/EBOG.png" width="150" height="150" />
 
 ## Smart Contract:
-<img src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/31987/eth-diamond-purple.png" data-canonical-src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/31987/eth-diamond-purple.png" width="13" height="20" /> Ethereum 
+
+### <img src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/31987/eth-diamond-purple.png" data-canonical-src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/31987/eth-diamond-purple.png" width="13" height="20" /> Ethereum 
 
 Mainnet:
 
@@ -24,7 +25,9 @@ Rikenby:
 
 ` Coming Soon `
 
-<img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> Polygon Mainnet:
+### <img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> Polygon 
+
+Mainnet:
 
 ` Coming Soon `
 
