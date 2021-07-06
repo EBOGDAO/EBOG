@@ -14,7 +14,13 @@ EBOG Logo:
 <img src="https://github.com/EBOGDAO/EBOG/blob/init/img/EBOG.png" data-canonical-src="https://github.com/EBOGDAO/EBOG/blob/init/img/EBOG.png" width="150" height="150" />
 
 ## Smart Contract:
-<img src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/31987/eth-diamond-purple.png" data-canonical-src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/31987/eth-diamond-purple.png" width="13" height="20" /> Ethereum Mainnet:
+<img src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/31987/eth-diamond-purple.png" data-canonical-src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/31987/eth-diamond-purple.png" width="13" height="20" /> Ethereum 
+
+Mainnet:
+
+` Coming Soon `
+
+Rikenby:
 
 ` Coming Soon `
 
