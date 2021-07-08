@@ -24,7 +24,7 @@ Mainnet:
 
 Rinkeby:
 
-` 0x1b719668c3da837583511b64093b28f4c23f2a2b `
+` 0x92690E922f7F7C6A776e5CF4f3FcF9CDcb061196 `
 
 ### <img src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" data-canonical-src="https://pbs.twimg.com/profile_images/1366339686432579587/THNz1DZm_400x400.png" width="20" height="20" /> Polygon 
 
@@ -64,7 +64,7 @@ Phase 1:
 Phase 2:
   - Staking will be added to this token to allow token holders to earn a share of the revenue made by the venue. 
   - Booking Streams at the Venue and CLUB26
-  - 
+
  `(Revenue will be shared amongst Venue Treasury, Artist, and Token Holders)`
 
 <br><br><hr>
