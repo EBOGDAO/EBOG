@@ -68,4 +68,4 @@ Phase 2:
  `(Revenue will be shared amongst Venue Treasury, Artist, and Token Holders)`
 
 <br><br><hr>
-### This proposal is property of <img src="https://github.com/EBOGDAO/EBOG/blob/init/img/OGDAO.jpg" data-canonical-src="https://github.com/EBOGDAO/EBOG/blob/init/img/OGDAO.jpg" width="17.5" height="17.5" /> OGDAO
+### This proposal is property of <img src="https://github.com/EBOGDAO/EBOG/blob/master/img/OGDAO.jpg" data-canonical-src="https://github.com/EBOGDAO/EBOG/blob/init/master/OGDAO.jpg" width="17.5" height="17.5" /> OGDAO
