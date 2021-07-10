@@ -14,18 +14,35 @@ contract EBOG is ERC20 {
        minterGoBrrr(100000000 * decimal);
     }
 
-    function massAirdrop(address[] memory _accounts, uint256  _amount) public {
+    /******************************** 
+     * Mint Functions
+     *********************************/ 
+     // Initial mint function
+    function minterGoBrrr(uint256 _toMint) internal {
+        _mint(msg.sender, _toMint);
+    }
+    
+    /******************************** 
+     * Airdrop Functions
+     *********************************/
+     
+    // Aidrop a given amount to a single address
+    function airdrop(address _account, uint256 _amount) public {
+        ERC20.transfer(_account, _amount * decimal);
+    }     
+     
+     
+    // Airdrop a single given amount to an array of comrades
+    function commieAirdrop(address[] memory _accounts, uint256  _amount) public {
         for (uint256 i = 0; i < _accounts.length; i++) {
             ERC20.transfer(_accounts[i], _amount * decimal);
         }
     }
     
-    function airdrop(address _account, uint256 _amount) public {
-        ERC20.transfer(_account, _amount * decimal);
-    }
-    
-    function minterGoBrrr(uint256 _toMint) internal
-    {
-        _mint(msg.sender, _toMint);
-    }
+    // Airdrop an array of amounts to an array of addresses
+    function massAirdrop(address[] memory _accounts, uint256  _amount) public {
+        for (uint256 i = 0; i < _accounts.length; i++) {
+            ERC20.transfer(_accounts[i], _amount * decimal);
+        }
+    } 
 }
