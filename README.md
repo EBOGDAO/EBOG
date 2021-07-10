@@ -7,12 +7,12 @@ These contracts are from [OpenZepplin](https://github.com/OpenZeppelin/openzeppe
 <a href="https://twitter.com/intent/follow?screen_name=EBOGDAO">
   <img src="https://img.shields.io/twitter/follow/EBOGDAO?style=social&logo=twitter" alt="follow on Twitter"></a>
 
-# <img src="https://github.com/EBOGDAO/EBOG/blob/init/img/EBOG.png" data-canonical-src="https://github.com/EBOGDAO/EBOG/blob/init/img/EBOG.png" width="25" height="25" />EBOG
+# <img src="https://github.com/EBOGDAO/EBOG/blob/master/img/EBOG.png" data-canonical-src="https://github.com/EBOGDAO/EBOG/blob/master/img/EBOG.png" width="25" height="25" />EBOG
 The token will help fund a decentralized digital venue on a yet to be determined platform. The idea of the venue would be to host events, such as musical performances, event hosting, and club. Owners of the $EBOG token will be able to stake their tokens to receive a share of the venue revenue. 
 
 $EBOG Logo:
 
-<img src="https://github.com/EBOGDAO/EBOG/blob/init/img/EBOG.png" data-canonical-src="https://github.com/EBOGDAO/EBOG/blob/init/img/EBOG.png" width="150" height="150" />
+<img src="https://github.com/EBOGDAO/EBOG/blob/master/img/EBOG.png" data-canonical-src="https://github.com/EBOGDAO/EBOG/blob/master/img/EBOG.png" width="150" height="150" />
 
 ## Smart Contract:
 
@@ -59,7 +59,7 @@ $EBOG Max supply = 1,000,000,000
 Phase 1: 
   - The token will be used to govern the venue. The OGDAO will hold 10% of the venue at launch. This is an incentive for creating the venue and purchasing the land on behald of the EBOG Venue.
 
-<img src="https://github.com/EBOGDAO/EBOG/blob/init/img/EBOG_Roadmap.png" data-canonical-src="https://github.com/EBOGDAO/EBOG/blob/init/img/EBOG_Roadmap.png" width="500" height="1000" /> 
+<img src="https://github.com/EBOGDAO/EBOG/blob/master/img/EBOG_Roadmap.png" data-canonical-src="https://github.com/EBOGDAO/EBOG/blob/master/img/EBOG_Roadmap.png" width="500" height="1000" /> 
 
 Phase 2:
   - Staking will be added to this token to allow token holders to earn a share of the revenue made by the venue. 
